@@ -9,7 +9,7 @@
 
 ## 🚀 Tech Stack
 - **Languages:** Python, Java, Dart, JavaScript  
-- **Frameworks & Tools:** Flutter, React Native, Node.js  
+- **Frameworks & Tools:** Flutter, React Native, Node.js, Laravel
 - **Databases:** Firebase, MySQL, PostgreSQL  
 - **Others:** Git, Figma  
 
