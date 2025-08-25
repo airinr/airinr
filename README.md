@@ -16,8 +16,8 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/airinristiana)  
-- 📷 [Instagram](https://www.instagram.com/aiairinr?igsh=OXE1ZmY2bzhjMHRs)  
+- 💼 [Airin Ristiana](https://www.linkedin.com/in/airinristiana)  
+- 📷 [aiairinr](https://www.instagram.com/aiairinr?igsh=OXE1ZmY2bzhjMHRs)  
 - 📧 airinristianaaa@gmail.com
 
 ---
