@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Airin 👋
 
-<!--
-**airinr/airinr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate in Informatics Engineering at Universitas Komputer Indonesia  
+💻 Interested in **Technology, Software Development, and UI/UX Design**  
+📚 Currently learning **Flutter, React Native, and Machine Learning**  
+🌱 Passionate about creating projects that combine **design & technology**    
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Languages:** Python, Java, Dart, JavaScript  
+- **Frameworks & Tools:** Flutter, React Native, Node.js  
+- **Databases:** Firebase, MySQL, PostgreSQL  
+- **Others:** Git, Figma  
+
+---
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/airinristiana)  
+- 📷 [Instagram](https://www.instagram.com/aiairinr?igsh=OXE1ZmY2bzhjMHRs)  
+- 📧 airinristianaaa@gmail.com
+
+---
+
+⭐️ *"Learning never exhausts the mind — keep building, keep exploring."*
